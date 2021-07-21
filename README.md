@@ -1,14 +1,14 @@
 # projeto_final_java_una
 
-Projeto desenvolvido nas aulas de Programação de Soluções Computacionais no curso de ADS, como requisito para aprovação na disciplina. 
+## Projeto desenvolvido nas aulas de Programação de Soluções Computacionais no curso de ADS, como requisito para aprovação na disciplina. 
 
-É um Programa de controle de Proprietários de Veículo e de Veículos.
+### É um Programa de controle de Proprietários de Veículo e de Veículos.
 
-Há um menu de opções que o usuário pode escolher para inserir informações, excluir, gerar listas e sair do programa.
+### Há um menu de opções que o usuário pode escolher para inserir informações, excluir, gerar listas e sair do programa.
 
-O case completo:
+## O case completo:
 
-"Crie um pequeno sistema para controle automatizado de pessoas e seus veículos.
+### "Crie um pequeno sistema para controle automatizado de pessoas e seus veículos.
 Para uma cidade se deseja um software que gerencie as pessoas que possuem veículos de modo a saber
 quem é o proprietário de um veículo. Da pessoa ou proprietário de um veículo é importante saber o nome, email, 
 peso, sexo e número da CNH. Já para cada veículo, informações sobre a placa, cor, descrição, quantidade
@@ -18,7 +18,7 @@ do ou dos veículos os quais ele é proprietário; e um relatório de todos os v
 nome do proprietário e a quantidade de portas. Além disso deve ser possível buscar uma pessoa pelo e-mail
 e um veículo pela placa; como outras ações que forem necessárias ao software".
 
-O menu:
+## O menu:
 
 1. Cadastro de proprietário
 2. Remoção de proprietário
